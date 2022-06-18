@@ -5,7 +5,7 @@
   <packaging>maven-archetype</packaging>
   <groupId>dev.xarlsr.archetype</groupId>
   <artifactId>xarlsr-hibernate-archetype</artifactId>
-  <version>1.0.0
+  <version>1.0.1
     
   </version>
   <name>xarlsr-hibernate-archetype</name>
