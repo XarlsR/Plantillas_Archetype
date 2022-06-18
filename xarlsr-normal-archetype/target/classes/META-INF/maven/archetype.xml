@@ -1,0 +1,12 @@
+<archetype>
+  <id>xarlsr-normal-archetype</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+    <source>src/main/resources/Demo.txt</source>
+    
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+    <source>src/test/resources/Demo.txt</source>
+  </testSources>
+</archetype>
