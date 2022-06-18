@@ -1,4 +1,4 @@
-package $com.xarlsr.normal_archetype;
+package ${groupId};
 
 import junit.framework.Test;
 import junit.framework.TestCase;
